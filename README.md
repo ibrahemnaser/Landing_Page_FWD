@@ -2,6 +2,8 @@
 
 ## Demo Preview
 
+[Live Demo](https://ibrahemnaser.github.io/Landing_Page_FWD/)
+
 ## Table of Contents
 
 - [Project Title](#project-title)
